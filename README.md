@@ -64,4 +64,6 @@ Smart city planning
 
 Traffic monitoring systems
 
-Driver alert syst
+Driver alert systems
+
+https://hanidurga-elubandi.github.io/Accident-Prediction-Using-Machine-Learning/
